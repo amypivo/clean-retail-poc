@@ -1,0 +1,5 @@
+---
+- hosts: tag_Role_solr-instance
+  sudo: true
+  roles:
+    - role: solr

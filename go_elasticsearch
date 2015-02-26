@@ -1,0 +1,1 @@
+TECH_STACK=elasticsearch "$( dirname "$0" )/go" $*

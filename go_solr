@@ -1,0 +1,1 @@
+TECH_STACK=solr "$( dirname "$0" )/go" $*

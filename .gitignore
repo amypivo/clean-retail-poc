@@ -1,0 +1,9 @@
+/.vagrant
+vagrant_ansible_inventory_*
+
+terraform.tfvars
+terraform.tfstate
+terraform.tfstate.backup
+
+/infra/rei_search.pem
+/infra/managed_tools

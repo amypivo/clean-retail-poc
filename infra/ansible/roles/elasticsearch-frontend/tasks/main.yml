@@ -1,0 +1,3 @@
+---
+- include: kopf.yml
+- include: nginx.yml
